@@ -1,0 +1,6 @@
+5) acceptable quality C compiler  
+6) standard C language 
+7) symbolic constant macros  
+8) free store manager  
+9)  virtual function mechanism   
+14) run-time type resolution  

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Alcomarxism\Documents\VSProjects\Parallel\LR5\main.cpp(25,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LR3.vcxproj -> C:\Users\Alcomarxism\Documents\VSProjects\Parallel\LR5\x64\Debug\LR5.exe

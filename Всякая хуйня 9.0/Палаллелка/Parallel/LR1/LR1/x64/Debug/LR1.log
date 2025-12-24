@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Alcomarxism\Documents\VSProjects\Parallel\LR1\main.cpp(26,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Alcomarxism\Documents\VSProjects\Parallel\LR1\main.cpp(35,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  LR1.vcxproj -> C:\Users\Alcomarxism\Documents\VSProjects\Parallel\LR1\x64\Debug\LR1.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Alcomarxism\Documents\VSProjects\Parallel\Lab5single\main.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab5single.vcxproj -> C:\Users\Alcomarxism\Documents\VSProjects\Parallel\Lab5single\x64\Debug\Lab5single.exe
